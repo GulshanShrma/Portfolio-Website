@@ -1,0 +1,30 @@
+.top-banner p{
+    display: inline-block;
+}
+
+body{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    height:100vh;
+    margin: 0;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+}
+
+.download{
+    
+    border: 0px;
+    background-color: rgba(0,255,255,.3);
+    border-radius: 20px;
+    color: violet;
+    position: absolute;
+    
+}
+
+.main-section p{
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-shadow: .5px .5px;
+    margin-top: .2rem 
+}
